@@ -1,3 +1,8 @@
+# KEYWORD SPOTTING ENGINE FOR SMART SERVICE COMPLIANCE ASSISTANT'S PROJECT
+
+Repository: https://github.com/vinsensutanto/smart-service-compliance
+
+---
 
 ## DEVICE & OPERATING SYSTEM (OS)
 
